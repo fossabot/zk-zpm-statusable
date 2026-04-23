@@ -30,6 +30,7 @@ Once installed, you may apply directly zpm:statusable aspect to documents, or vi
 In document library:
 
 ![Statusable DocLib](screenshots/status-document-library.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmantis1967%2Fzk-zpm-statusable.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmantis1967%2Fzk-zpm-statusable?ref=badge_shield)
 
 Via smart folders:
 
@@ -42,3 +43,7 @@ Via smart folders:
 ## Tested
 
 It should work in Alfresco 4.x and above
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmantis1967%2Fzk-zpm-statusable.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmantis1967%2Fzk-zpm-statusable?ref=badge_large)
